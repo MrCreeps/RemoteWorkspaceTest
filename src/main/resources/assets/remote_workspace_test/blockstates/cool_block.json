@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "remote_workspace_test:block/cool_block"
+    }
+  }
+}

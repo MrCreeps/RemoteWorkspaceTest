@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "remote_workspace_test:block/coolblock",
+    "up": "remote_workspace_test:block/coolblock",
+    "north": "remote_workspace_test:block/coolblock",
+    "east": "remote_workspace_test:block/coolblock",
+    "south": "remote_workspace_test:block/coolblock",
+    "west": "remote_workspace_test:block/coolblock",
+    "particle": "remote_workspace_test:block/coolblock"
+  },
+  "render_type": "solid"
+}

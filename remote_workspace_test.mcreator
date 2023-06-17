@@ -3,6 +3,7 @@
     {
       "name": "CoolItem",
       "type": "item",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cool_item",
@@ -12,13 +13,30 @@
           "src/main/java/net/mcreator/remoteworkspacetest/item/CoolItemItem.java"
         ]
       }
+    },
+    {
+      "name": "CoolBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cool_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/remote_workspace_test/models/block/cool_block.json",
+          "src/main/resources/assets/remote_workspace_test/models/item/cool_block.json",
+          "src/main/java/net/mcreator/remoteworkspacetest/block/CoolBlockBlock.java",
+          "src/main/resources/assets/remote_workspace_test/blockstates/cool_block.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.remote_workspace_test.cool_item": "Cool Item"
+      "item.remote_workspace_test.cool_item": "Cool Item",
+      "block.remote_workspace_test.cool_block": "Cool Block"
     }
   },
   "foldersRoot": {

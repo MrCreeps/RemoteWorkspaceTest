@@ -1,3 +1,4 @@
 {
-  "item.remote_workspace_test.cool_item": "Cool Item"
+  "item.remote_workspace_test.cool_item": "Cool Item",
+  "block.remote_workspace_test.cool_block": "Cool Block"
 }
