@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "CoolItem",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cool_item",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/remote_workspace_test/models/item/cool_item.json",
+          "src/main/java/net/mcreator/remoteworkspacetest/item/CoolItemItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.remote_workspace_test.cool_item": "Cool Item"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "remote_workspace_test",
+    "modName": "Remote Workspace Test",
+    "version": "1.0.0",
+    "author": "Caden, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.4",
+    "modElementsPackage": "net.mcreator.remoteworkspacetest",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300223515
+}
